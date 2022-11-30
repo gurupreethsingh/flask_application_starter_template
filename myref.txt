@@ -1,0 +1,6 @@
+flask repository link
+
+https://github.com/gurupreethsingh/flask_application_starter_template
+
+  git config --global user.email "igurupreeth@gmail.com"
+  git config --global user.name "Gurupreeth Singh"
